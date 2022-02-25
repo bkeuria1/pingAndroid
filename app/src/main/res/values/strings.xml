@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PingProject</string>
+    <string name="ping_tool">Ping Tool</string>
+    <string name="ping">Ping</string>
+</resources>
